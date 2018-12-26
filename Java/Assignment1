@@ -1,6 +1,9 @@
 What are comments and what are the diff types of comment...?
 
-comments are given by user for description 
-single 
-multiline
+comments are simple statements which are given by the author of the 
+source code to other programmers of what is going on in the code, 
+comments are of two types.
+single:- It is followed by hsah symbol and then statement.
+multiline:- It begins by end with triple quotation in bet which 
+statements are written.
 
